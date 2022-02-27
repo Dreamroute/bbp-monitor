@@ -1,4 +1,4 @@
-监控控制台is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+监控控制台`is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)`
 
 1. SpringBoot项目，引入：
 ```xml
