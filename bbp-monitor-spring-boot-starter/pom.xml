@@ -10,7 +10,7 @@
 
     <artifactId>bbp-monitor-spring-boot-starter</artifactId>
     <name>${project.artifactId}</name>
-    <description>xxx</description>
+    <description>监控控制台is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)</description>
     <url>https://github.com/Dreamroute/bbp-monitor</url>
     <scm>
         <url>${project.url}</url>
