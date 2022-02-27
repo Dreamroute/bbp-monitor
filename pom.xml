@@ -180,4 +180,8 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>bbp-monitor-spring-boot-starter</module>
+        <module>bbp-monitor-sample</module>
+    </modules>
 </project>

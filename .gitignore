@@ -30,3 +30,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/bbp-monitor-spring-boot-starter/.flattened-pom.xml
+/bbp-monitor-sample/.flattened-pom.xml
+/.flattened-pom.xml
